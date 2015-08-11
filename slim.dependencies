@@ -1,6 +1,6 @@
 [
   {
-  "repository": "imoseyon/leanKernel-shamu",
+  "repository": "sohkis/leanKernel-shamu",
   "target_path": "kernel/motorola/shamu",
   "branch": "lk-lp"
   }
